@@ -1,2 +1,4 @@
 # pengolahan-bahasa-alami
-Arsip Tugas MK Pengolahan Bahasa Alami
+Arsip Tugas Mata Kuliah Pengolahan Bahasa Alami
+*Natural Language Processing Course Assignment Archive*
+
